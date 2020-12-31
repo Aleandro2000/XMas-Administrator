@@ -1,0 +1,1 @@
+    This project is a managment application for kid's Christmass wishes letters.
