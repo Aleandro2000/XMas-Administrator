@@ -1,1 +1,1 @@
-    This project is a managment application for kids's Christmass wishes letters.
+    This project is a managment application for kids's Christmass wishes letters. It was made by Alexandru-Andrei Carmici.
